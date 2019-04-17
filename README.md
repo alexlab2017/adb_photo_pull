@@ -2,10 +2,10 @@
 
 Utility to pull the last `n` number of photos from an Android device.
 
-# Requirements
+## Requirements
 
 -   An Android device
--   Android Debug Bridge(`adb`) installed
+-   Android Debug Bridge (`adb`) installed
 -   `bash`
 
 On Ubuntu installing `adb` should be pretty easy: `sudo apt install android-tools-adb`.
