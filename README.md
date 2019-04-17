@@ -1,4 +1,4 @@
-# adb\_photo\_pull
+# adb\_photo\_pull [![Codacy Badge](https://api.codacy.com/project/badge/Grade/dc047091a2114883827916c79373d1a6)](https://www.codacy.com/app/alexlab2017/IP_server?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alexlab2017/IP_server&amp;utm_campaign=Badge_Grade)
 
 Utility to pull the last `n` number of photos from an Android device.
 
